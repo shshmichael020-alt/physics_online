@@ -5,7 +5,7 @@ A dark, high-impact scientific dashboard for intrinsic semiconductor temperature
 ## Run locally
 
 1. Install Node.js and npm.
-2. Open a terminal in `websitephysics`.
+2. Open a terminal in `physics_online`.
 3. Run:
    ```bash
    npm install
